@@ -1,0 +1,12 @@
+Start log at 2021-11-21 15:05:54.909893
+Board is 2x2.
+No,Player,X,Y,Time
+1,DefaultAgent1,0,0,9300
+2,DefaultAgent2,-1,SWAP,154000
+3,DefaultAgent1,1,1,172800
+4,DefaultAgent2,1,0,27600
+0,DefaultAgent2,End,Win,True
+0,Total,4,1979900,494975
+0,DefaultAgent2,2,181600,90800
+0,DefaultAgent1,2,182100,91050
+
